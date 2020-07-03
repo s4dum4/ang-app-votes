@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-app-votes"
+    }
+  },
+  "defaultProject": "ang-app-votes",
+  "cli": {
+    "analytics": false
+  }
 }
